@@ -22,6 +22,9 @@ __pycache__/
 !.vscode/settings.json
 !.vscode/extensions.json
 
+# Git settings
+.gitattributes
+
 # Test artifacts
 .env.test_backup
 *.pyc

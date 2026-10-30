@@ -8,3 +8,5 @@ GLEAN_CLIENT_API=your_client_api_token_here
 # Indexing API Token (for document upload operations)
 GLEAN_INDEX_API=your_indexing_api_token_here
 
+# Glean instance name (e.g., support-lab)
+GLEAN_INSTANCE=support-lab
